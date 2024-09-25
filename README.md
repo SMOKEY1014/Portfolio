@@ -1,12 +1,12 @@
 # [Start Bootstrap - Personal](https://startbootstrap.com/template/personal/)
 
-[Personal](https://startbootstrap.com/template/personal/) is a personal website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 4 unique HTML pages and a working contact form built with [Start Bootstrap Froms](https://startbootstrap.com/solution/contact-forms).
+[Personal](https://smk-portfolio.onrender.com/) is a personal website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template includes 4 unique HTML pages and a working contact form built with [Start Bootstrap Froms](https://startbootstrap.com/solution/contact-forms).
 
 ## Preview
 
-[![Personal Preview](https://assets.startbootstrap.com/img/screenshots/themes/personal.png)](https://startbootstrap.github.io/startbootstrap-personal/)
+[![Personal Preview](https://drive.google.com/file/d/1jtw16FWezHRtcmrSUVfLAnhSx4p31lpV/preview/)](https://smk-portfolio.onrender.com/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-personal/)**
+**[View Live Preview](https://smk-portfolio.onrender.com/)**
 
 ## Status
 
